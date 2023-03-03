@@ -1,0 +1,6 @@
+.card{
+    backdrop-filter: blur(10px);
+    background-blend-mode: overlay;
+    background-color:#7772721f;
+    box-shadow: 0 10px 15px rgb(0 0 0 / 20%);
+}

@@ -1,0 +1,25 @@
+
+$('.prog-btn').click(function() {
+  $('.sidebar ul .prog-show').toggleClass("show1");
+  $('.sidebar ul .first').toggleClass("rotate");
+});
+$('.way-btn').click(function() {
+  $('.sidebar ul .way-show').toggleClass("show");
+  $('.sidebar ul .second').toggleClass("rotate");
+
+});
+$('.chan-btn').click(function() {
+  $('.sidebar ul .chan-show').toggleClass("show2");
+  $('.sidebar ul .third').toggleClass("rotate");
+
+});
+$('nav ul li').click(function(){
+  $(this).addClass("active").siblings().removeClass("active");
+});
+
+$('.btn').click(function(){
+  $(this).toggleClass("click");
+  $('.sidebar').toggleClass("show");
+
+});
+

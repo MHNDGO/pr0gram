@@ -1,0 +1,255 @@
+body.light #proog{
+    color: #2a58dd;
+  }
+  body.light #srvsc{
+    background-color: rgb(211, 209, 209) ;
+  }
+  body.light .title{
+    color: #2a58dd;
+    
+  }
+  body.light .titile{
+    color: #2a58dd;
+    
+  }
+  body.light header {
+    background: #ffffff7d;
+    backdrop-filter: blur(10px);
+    background-blend-mode: overlay;
+    box-shadow: 0 10px 15px rgb(0 0 0 / 20%);
+
+
+  }
+  body.light header .prg {
+    color: black;
+  
+  }
+  body.light .zero{
+   
+
+    background: -webkit-linear-gradient(rgb(42, 88, 221),rgb(13, 25, 107));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+  }
+  body.light .spn {
+    color: #6486ed;
+  
+  }
+  body.light nav #t{
+    color: black;
+  }
+  body.light .main{
+    background:url("../image/prglptp.jpg") no-repeat;
+    background-position: center;
+    background-size: cover;
+   
+  }
+  body.light .dropdown-content{
+ 
+    background: white;
+
+  }
+  body.light .dropdown-content a{
+    color: black;
+  }
+  body.light .dropdown-content a:hover{
+    color: #2a58dd;
+    background-color: rgb(221, 221, 221);
+  
+  }
+  body.light .main h2{
+    
+  }
+ 
+  body.light .main h3{
+   
+  }
+  body.light .best{
+    color: #2a58dd;
+  }
+  body.light .main-btn{
+    background-color: white;
+    color: black;
+    box-shadow: 0px 5px 25px rgb(54, 53, 53);
+  }
+  body.light #how{
+    background-color:azure;
+  }
+  body.light .card{
+    background: #ffffff7d;
+
+  }
+  body.light .icon{
+    color: #2a58dd;
+  }
+  body.light p{
+    color: black;
+  
+  }
+  body.light .card h3{
+    color: #2a58dd;
+  }
+  body.light .about{
+    background-color: white;
+  }
+  body.light #number{
+    color: #2a58dd;
+  }
+  body.light .scicon{
+    color: black;
+  }
+  body.light #prgg{
+    color: black;
+  }
+  body.light #color{
+    color: black;
+  }
+  body.light #contact{
+    color: black;
+  }
+  body.light #t:hover{
+    color: #2a58dd;
+  }
+  body.light .icon{
+    color:#2a58dd;
+  }
+  body.light #tch{
+    background-color: rgb(240, 230, 230);
+  }
+  body.light #w3lang {
+    color: black;
+  }
+  body.light #w3a {
+    color: black;
+  }
+  body.light #w3a:hover{
+   color: #2a58dd;
+  
+  }
+  body.light #why {
+    background-color: rgb(218, 235, 218);
+  }
+  body.light  .langlab{
+   
+      width: 50px;
+      height: 20px;
+      position: relative;
+      display: block;
+      background-color: rgb(0 0 0,0%);
+      border-radius: 200px;
+      outline: #2a58dd solid 3px;
+      cursor: pointer;
+      transition: 0.3s;
+    
+  }
+   body.light .langlab:after{
+    content: "";
+    width: 18px;
+    height: 18px;
+    position: absolute;
+    top: 0.9px;
+    left: 1.1px;
+    background: linear-gradient(#6486ed,#2a58dd);
+    border-radius: 180px;
+    transition: 0.3s;
+    
+  }
+body.light{
+  background-color: white;
+}
+body.light #back{
+  color: black;
+}
+body.light #back:hover{
+  color: #2a58dd;
+}
+body.light #newmain{
+  background-color: aliceblue;
+}
+body.light .mncl{
+  background-color: rgb(214, 214, 214);
+  border-color: rgb(243, 238, 238);
+}
+body.light .titlediv{
+  color:#2a58dd;
+
+}
+body.light .descriptiondiv{
+  color: black;
+
+}
+body.light #quest{
+  color: black;
+}
+body.light #mobile{
+  background-color: antiquewhite;
+}
+body.light #desk{
+  background-color: bisque;
+}
+body.light #web{
+  background-color: cornsilk;
+}
+body.light .btn i{
+  color: black;
+}
+body.light .btn i:hover{
+  color: rgb(53, 52, 52);
+}
+body.light .sidebar .sdh1{
+  color: black;
+
+}
+body.light .sidebar .sideradius{
+  backdrop-filter: blur(10px);
+  background-blend-mode: overlay;
+  background-color:#ffffff7d;;
+
+}
+body.light .sidebar ul li a{
+  color: black;
+  
+}
+body.light .sidebar ul li:active ul li{
+  
+}
+body.light .prog-btn:hover{
+  background-color: gray;
+}
+body.light .sidebar ul li.active a{
+  background-color:#ffffff7d;;
+  border-left-color:#2a58dd;
+  backdrop-filter: blur(10px);
+  background-blend-mode: overlay;
+}
+body.light .sidebar ul li.active ul li a{
+  color: black;
+  background-color:#ffffff7d;;
+
+  backdrop-filter: blur(10px);
+  background-blend-mode: overlay;
+
+}
+body.light .sidebar ul ul li a:hover{
+  color: #2a58dd  !important;
+  background: #ebedf3 !important;
+}
+body.light .prog-show{
+  background-color:#ffffff7d;;
+
+  backdrop-filter: blur(30px);
+  background-blend-mode: overlay;
+}
+body.light .way-show{
+  background-color:#ffffff7d;;
+
+  backdrop-filter: blur(30px);
+  background-blend-mode: overlay;
+}
+body.light .chan-show{
+  background-color:#ffffff7d;;
+
+  backdrop-filter: blur(30px);
+  background-blend-mode: overlay;
+}
